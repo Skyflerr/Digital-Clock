@@ -1,0 +1,31 @@
+*{
+    font-size: 150px;
+    color: white;
+}
+
+html { overflow-y: hidden; }
+
+body{
+    background-color: #242a3b;
+}
+
+#main{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.scribbles img{
+    position: relative;
+    width: 1400px;
+    height: 650px;
+    right: 240px;
+}
+
+.morescribbles img{
+    position: relative;
+    margin-left: 1300px;
+    top: -550px;
+    width: 300px;
+    height: 100px;
+}
